@@ -5,7 +5,7 @@
 }
 
 .contenedor-cabeza{
-    background-color: rgb(157, 105, 224); 
+    background-color: rgb(25, 131, 230); 
     padding: 8px;
     h1{
         margin-left: 17%;
@@ -16,7 +16,7 @@
             border: solid white;
             border-radius: 20px;
             padding: 4px 18px ;
-            background-color: rgb(184, 138, 245);
+            background-color: rgba(151, 191, 238, 0.527);
             box-shadow: 0 0 5px white;
             i{
                 padding: 1px 5px ;
@@ -52,7 +52,7 @@
     justify-content: center;
     gap: 2rem;
     padding: 3px;
-    background-color: rgb(184, 138, 245);
+    background-color: rgba(151, 191, 238, 0.527);
     select{
         border-radius: 10px;
     }
@@ -65,8 +65,8 @@
     display: flex;
     gap: 1rem;
     flex-wrap: wrap;
-    padding: 10px;
-    background-color: rgb(184, 138, 245);
+    padding: 20px;
+    background-color: rgba(151, 191, 238, 0.527);
     article{ 
         h2{
         background-color: white;
@@ -85,6 +85,6 @@ footer{
     display: flex;
     justify-content: center;
     gap: 4rem;
-    background-color: rgb(157, 105, 224);
+    background-color: rgb(25, 131, 230); 
     padding: 30px;
 }
